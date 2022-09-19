@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Camilo Riveros: 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
-=======
-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
--Token kathe:
-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
->>>>>>> 60ca38eb7422abb5515e2bfa6055b1c232bf4c56
+
+-Camilo Riveros: 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
+
+-Token kathe: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
+
